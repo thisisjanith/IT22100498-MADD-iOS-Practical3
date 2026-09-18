@@ -2,8 +2,7 @@
 ### Practical 03 – Functions, Enums, Structs & Classes in Swift
 
 **Duration:** 2 Hours  
-**Module:** SE4041 – Mobile Application Design & Development  
-**Practical Type:** Self-Guided  
+**Module:** SE4041 – Mobile Application Design & Development   
 **Language:** Swift
 
 ---
