@@ -1562,23 +1562,4 @@ Open your GitHub Classroom repository and verify that your latest files and scre
 - [ ] Output screenshots are included.
 - [ ] Changes are committed, pushed, and visible on GitHub.
 
-## 26. Corrected Two-Hour Timing Plan
-
-The exercise timings above follow this plan. Exercise 01 includes sections 5–8; Exercise 05 includes raw values; Exercise 06 includes sections 14–19.
-
-| Session segment | Minutes | Elapsed time |
-|---|---:|---|
-| Environment and GitHub setup | 5 | 00:00–00:05 |
-| Exercise 01 — Functions, parameters, return values, argument labels, defaults | 18 | 00:05–00:23 |
-| Exercise 02 — `guard` | 8 | 00:23–00:31 |
-| Exercise 03 — Tuples | 7 | 00:31–00:38 |
-| Exercise 04 — Closures, `map`, `filter`, `reduce` | 12 | 00:38–00:50 |
-| Exercise 05 — Enums and raw values | 8 | 00:50–00:58 |
-| Exercise 06 — Structs, properties, methods, classes, value/reference semantics | 22 | 00:58–01:20 |
-| Knowledge check | 5 | 01:20–01:25 |
-| Final Student Management System challenge | 30 | 01:25–01:55 |
-| Screenshots, GitHub submission, and checklist | 5 | 01:55–02:00 |
-| **Total** | **120** | **2 hours** |
-
-The optional additional challenge is outside the core 120-minute schedule.
 
